@@ -1,0 +1,35 @@
+p{text-align:justify;
+  font-style:italic;
+	font-size:1.5em;
+}
+p:first-letter
+{
+font-size:1.5em;
+color-yellow;
+}
+pre{font-style:italic;
+	font-size:1.5em;}
+h1{font-weight:bolder; font-family:"algerian";
+		height:100px;
+	background-image:linear-gradient(aqua,yellow);
+	text-align:center;
+	font-size:3.5em;
+	font-family:algerian;
+	text-shadow:6px 4px 2px orange;
+	}
+h2{font-weight:bolder;
+	font-style:italic;
+	font-size:45px;
+	text-shadow:3px 2px 2px aqua;}
+.gopu{background-color:aqua;
+	border:1px solid white;
+	text-align:center;
+	width:250px;
+	float:left;
+	height:30px;
+	line-height:30px;
+	list-style:none;
+	padding:15px 15px;
+	font-size:1.3em;
+	text-decoration:none;
+}
